@@ -7,6 +7,7 @@
 this portfolio includes name an are for a brief paragraph in about myself 
 a contact me part of the bottom of the screen that directly connects you to my linked in and my github profile 
 
+![Screen Shot 2022-04-05 at 8 03 03 PM](https://user-images.githubusercontent.com/93356359/161875257-0ee89907-196e-42ff-8e61-eda2c4a34737.png)
 
 
 
